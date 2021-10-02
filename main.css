@@ -199,6 +199,9 @@ h1{
         margin-right: auto;
         
     }
+    .navigation-text{
+        margin-left: 10px;
+    }
     h1{
         font-size: 20px;
     }
